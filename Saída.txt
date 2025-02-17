@@ -1,0 +1,72 @@
+Saída
+
+Resposta encontrada após 46 tentativas
+Rodada 1:
+  CFC (Mandante) vs DFC (Visitante)
+  AFC (Mandante) vs OFC (Visitante)
+  LFC (Mandante) vs TFC (Visitante)
+
+Rodada 2:
+  AFC (Mandante) vs FFC (Visitante)
+  OFC (Mandante) vs LFC (Visitante)
+  DFC (Mandante) vs TFC (Visitante)
+
+Rodada 3:
+  CFC (Mandante) vs AFC (Visitante)
+  TFC (Mandante) vs FFC (Visitante)
+  LFC (Mandante) vs OFC (Visitante)
+
+Rodada 4:
+  AFC (Mandante) vs LFC (Visitante)
+  TFC (Mandante) vs DFC (Visitante)
+  CFC (Mandante) vs FFC (Visitante)
+
+Rodada 5:
+  FFC (Mandante) vs DFC (Visitante)
+  OFC (Mandante) vs AFC (Visitante)
+  LFC (Mandante) vs CFC (Visitante)
+
+Rodada 6:
+  FFC (Mandante) vs TFC (Visitante)
+  DFC (Mandante) vs AFC (Visitante)
+  OFC (Mandante) vs CFC (Visitante)
+
+Rodada 7:
+  TFC (Mandante) vs CFC (Visitante)
+  FFC (Mandante) vs LFC (Visitante)
+  DFC (Mandante) vs OFC (Visitante)
+
+Rodada 8:
+  TFC (Mandante) vs LFC (Visitante)
+  DFC (Mandante) vs CFC (Visitante)
+  FFC (Mandante) vs OFC (Visitante)
+
+Rodada 9:
+  TFC (Mandante) vs OFC (Visitante)
+  AFC (Mandante) vs DFC (Visitante)
+  CFC (Mandante) vs LFC (Visitante)
+
+Rodada 10:
+  AFC (Mandante) vs TFC (Visitante)
+  OFC (Mandante) vs DFC (Visitante)
+  LFC (Mandante) vs FFC (Visitante)
+
+Rodada 11:
+  TFC (Mandante) vs AFC (Visitante)
+  DFC (Mandante) vs FFC (Visitante)
+  CFC (Mandante) vs OFC (Visitante)
+
+Rodada 12:
+  LFC (Mandante) vs AFC (Visitante)
+  OFC (Mandante) vs TFC (Visitante)
+  FFC (Mandante) vs CFC (Visitante)
+
+Rodada 13:
+  FFC (Mandante) vs AFC (Visitante)
+  DFC (Mandante) vs LFC (Visitante)
+  CFC (Mandante) vs TFC (Visitante)
+
+Rodada 14:
+  LFC (Mandante) vs DFC (Visitante)
+  AFC (Mandante) vs CFC (Visitante)
+  OFC (Mandante) vs FFC (Visitante)
