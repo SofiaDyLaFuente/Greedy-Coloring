@@ -39,3 +39,11 @@ Execute o programa:
 ```bash
 python Greedy-Coloring.py
 ```
+
+--------
+
+### Observações importantes
+
+- **Limitações do Algoritmo**: O código não está completamente otimizado. Foi necessário estipular um número máximo de tentativas (500) para que o programa pare caso não encontre uma combinação de jogos válida dentro desse limite. Se isso ocorrer, será necessário rodar o programa novamente.
+  
+- **Eficiência**: O algoritmo geralmente encontra uma solução entre 10 e 200 tentativas, mas não há garantia de que ele sempre conseguirá em menos tentativas.
